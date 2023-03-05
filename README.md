@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Teen! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="right">
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&width=435&lines=Python+Developer;C%23+Developer;HTML+%26+CSS+Developer" alt="Typing SVG" /></a>
 </p>
 
@@ -90,7 +90,7 @@
 
 <li>
 <a href="https://discord.com/users/725410293399683263" target="_blank">
-<img src="https://img.shields.io/badge/Discord:  xTeen#8980-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Discord:  xTeen8980-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;" />
 </a>
 </li>
 
@@ -117,9 +117,3 @@
 <div align='center'>
 
 </div>
-<br>
-<br>
-<br>
-<br>
-
----
