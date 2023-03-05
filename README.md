@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Teen! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
+<p align="right">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&width=435&lines=Python+Developer;C%23+Developer;HTML+%26+CSS+Developer" alt="Typing SVG" /></a>
 </p>
 
@@ -123,5 +123,3 @@
 <br>
 
 ---
-
-<br>
