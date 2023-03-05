@@ -74,7 +74,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -90,7 +90,7 @@
 
 <li>
 <a href="https://discord.com/users/725410293399683263" target="_blank">
-<img src="https://img.shields.io/badge/Discord:  xTeen#8980-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Discord:  xTeen8980-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;" />
 </a>
 </li>
 
@@ -101,7 +101,7 @@
 
 <li>
 <a href="mailto:contact@xteen.dev" target="_blank">
-<img src="https://img.shields.io/badge/Gmail:  contact@xteen.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail:  contact@xteen.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 4px;" />
 </a>
 </li>
 
