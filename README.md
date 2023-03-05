@@ -101,7 +101,7 @@
 
 <li>
 <a href="mailto:contact@xteen.dev" target="_blank">
-<img src="https://img.shields.io/badge/Gmail:  contact@xteen.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 4px;" />
+<img src="https://img.shields.io/badge/Gmail:  contact@xteen.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 
